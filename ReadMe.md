@@ -48,18 +48,19 @@ Follow these steps to set up and deploy the contract using Remix IDE:
    }
    
 ## Function Usage
-**mint
+**mint**
 The mint function allows the creation of new tokens and adds them to a specified address.
 
-**burn
+**burn**
 The burn function destroys tokens from a specified address, reducing the total supply.
 
-**Parameters:
+**Parameters:**
 _address: The address to which the newly minted tokens will be added or burned.
 _value: The amount of tokens to mint or burn.
 
 ## Help
 For common issues or problems, you can refer to the Remix IDE documentation or check the console for error messages.
 
-**Authors
+**Authors**
+tanwarvansh29@gmail.com
 Contributors:
